@@ -1,4 +1,4 @@
-                                                    FAKE NEWS DETECTION WITH SOCIAL GRAPH
+FAKE NEWS DETECTION WITH SOCIAL GRAPH
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,8 +10,7 @@ Fake news can be politically driven to give advantages or disadvantages to a pol
 
 So, our goal is to detect fake news in order to prevent the spreading of misleading news stories that come from non-reputable sources. We are seeking to create a model that can predict whether a given news is fake or real. We can detect fake news using supervised machine learning methods. In the end, we are expecting to differentiate fake news from real ones.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  Formalization
+-----------------------------------------------------------------------------------------------------------------------------------------------------------Formalization
                                                                   
 This is a classification problem where we are classifying news as fake or real. We will be using two machine learning algorithms to try to solve the problem and then check which algorithm performed well. The two algorithms are as follows:
 
@@ -25,8 +24,7 @@ This is a classification problem where we are classifying news as fake or real. 
         ● ● Next, we will initialize and apply the classifiers to the training data and test it on the test data as well.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                    Data
-        
+Data
         
 In this project, we’ll get the data from two different sources:
 First, we will use the news dataset from Kaggle.
