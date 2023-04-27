@@ -4,8 +4,7 @@ FAKE NEWS DETECTION WITH SOCIAL GRAPH
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Update: The overall project involved understanding the reasoning behind Fake News Detection, finalizing our dataset which came from two different sources -  namely, an existing Kaggle dataset as well as a News API for collecting authenticated real news from authenticated sources - preprocessing the data, splitting it into training and test sets, applying the different models on the data, and analysing the results. 
 Here, the existing Kaggle dataset is given in news-data.zip and the other data is directly imported into the code from the API. 
------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Let’s ask ourselves a simple question, do we trust all the news present on social media? How can we detect fake news from real news? It’s a tricky question. So what is fake news? Fake news is a piece of news that is not true and is deliberately designed to mislead people. It is usually spread via social media or other online platforms.
 
