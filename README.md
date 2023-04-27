@@ -1,5 +1,4 @@
-FAKE NEWS DETECTION WITH SOCIAL GRAPH
-
+Fake News Detection with Social Graph
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Update: The overall project involved understanding the reasoning behind Fake News Detection, finalizing our dataset which came from two different sources -  namely, an existing Kaggle dataset as well as a News API for collecting authenticated real news from authenticated sources - preprocessing the data, splitting it into training and test sets, applying the different models on the data, and analysing the results. 
