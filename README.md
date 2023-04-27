@@ -12,8 +12,12 @@ Let’s ask ourselves a simple question, do we trust all the news present on soc
 Fake news can be politically driven to give advantages or disadvantages to a political party. Such news items may contain false and exaggerated claims and, because of certain algorithms, trap users in a filter bubble. It is creating different issues, from sarcastic articles to fabricated news and planned government propaganda in some outlets. Fake news and lack of trust in the media are growing problems with huge complications in our society.
 
 So, our goal is to detect fake news in order to prevent the spreading of misleading news stories that come from non-reputable sources. We are seeking to create a model that can predict whether a given news is fake or real. We can detect fake news using supervised machine learning methods. In the end, we are expecting to differentiate fake news from real ones.
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------Formalization
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Formalization
                                                                   
 This is a classification problem where we are classifying news as fake or real. We will be using two machine learning algorithms to try to solve the problem and then check which algorithm performed well. The two algorithms are as follows:
 
